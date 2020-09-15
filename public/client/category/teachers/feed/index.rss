@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Teachers &#8211; China Horizons</title>
+	<atom:link href="https://chinahorizons.org/category/teachers/feed/" rel="self" type="application/rss+xml" />
+	<link>https://chinahorizons.org</link>
+	<description>Live. Teach. Experience. China.</description>
+	<lastBuildDate>Wed, 26 Jun 2019 20:31:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.3</generator>
+
+<image>
+	<url>https://chinahorizons.org/wp-content/uploads/2018/03/cropped-favicon2-32x32.png</url>
+	<title>Teachers &#8211; China Horizons</title>
+	<link>https://chinahorizons.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+                <div class="container ">
+                <div class="row "  >
+                <div class="col-sm-12"><form autocomplete="off" name="wpv-filter-4454" action="https://chinahorizons.org/category/teachers/feed/?wpv_view_count=4454" method="get" class="wpv-filter-form js-wpv-filter-form js-wpv-filter-form-4454 js-wpv-form-full" data-viewnumber="4454" data-viewid="4454" data-viewhash="eyJpZCI6IjQ0NTQifQ==" data-viewwidgetid="0" data-orderby="" data-order="" data-orderbyas="" data-orderbysecond="" data-ordersecond="" data-parametric="{&quot;query&quot;:&quot;archive&quot;,&quot;id&quot;:&quot;4454&quot;,&quot;view_id&quot;:&quot;4454&quot;,&quot;widget_id&quot;:0,&quot;view_hash&quot;:&quot;4454&quot;,&quot;action&quot;:&quot;https:\/\/chinahorizons.org\/category\/teachers\/feed\/?wpv_view_count=4454&quot;,&quot;sort&quot;:{&quot;orderby&quot;:&quot;&quot;,&quot;order&quot;:&quot;&quot;,&quot;orderby_as&quot;:&quot;&quot;,&quot;orderby_second&quot;:&quot;&quot;,&quot;order_second&quot;:&quot;&quot;},&quot;orderby&quot;:&quot;&quot;,&quot;order&quot;:&quot;&quot;,&quot;orderby_as&quot;:&quot;&quot;,&quot;orderby_second&quot;:&quot;&quot;,&quot;order_second&quot;:&quot;&quot;,&quot;ajax_form&quot;:&quot;&quot;,&quot;ajax_results&quot;:&quot;&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;prebefore&quot;:&quot;&quot;,&quot;before&quot;:&quot;&quot;,&quot;after&quot;:&quot;&quot;,&quot;attributes&quot;:{&quot;id&quot;:&quot;4454&quot;},&quot;environment&quot;:{&quot;current_post_id&quot;:33,&quot;parent_post_id&quot;:0,&quot;parent_term_id&quot;:0,&quot;parent_user_id&quot;:0,&quot;archive&quot;:{&quot;type&quot;:&quot;taxonomy&quot;,&quot;name&quot;:&quot;category&quot;,&quot;data&quot;:{&quot;taxonomy&quot;:&quot;category&quot;,&quot;term&quot;:&quot;teachers&quot;,&quot;term_id&quot;:18}}},&quot;loop&quot;:{&quot;type&quot;:&quot;taxonomy&quot;,&quot;name&quot;:&quot;category&quot;,&quot;data&quot;:{&quot;taxonomy&quot;:&quot;category&quot;,&quot;term&quot;:&quot;teachers&quot;,&quot;term_id&quot;:18},&quot;id&quot;:&quot;4454&quot;}}" data-attributes="{&quot;id&quot;:&quot;4454&quot;}" data-environment="{&quot;current_post_id&quot;:33,&quot;parent_post_id&quot;:0,&quot;parent_term_id&quot;:0,&quot;parent_user_id&quot;:0,&quot;archive&quot;:{&quot;type&quot;:&quot;taxonomy&quot;,&quot;name&quot;:&quot;category&quot;,&quot;data&quot;:{&quot;taxonomy&quot;:&quot;category&quot;,&quot;term&quot;:&quot;teachers&quot;,&quot;term_id&quot;:18}}}"><input type="hidden" class="js-wpv-dps-filter-data js-wpv-filter-data-for-this-form" data-action="https://chinahorizons.org/category/teachers/feed/?wpv_view_count=4454" data-page="1" data-ajax="disable" data-effect="fade" data-maxpages="1" data-ajaxprebefore="" data-ajaxbefore="" data-ajaxafter="" /><input class="wpv_view_count wpv_view_count-4454" type="hidden" name="wpv_view_count" value="4454" />
+
+</form>
+<div id="wpv-view-layout-4454" class="js-wpv-view-layout js-wpv-layout-responsive js-wpv-view-layout-4454" data-viewnumber="4454" data-pagination="{&quot;id&quot;:&quot;4454&quot;,&quot;base_permalink&quot;:&quot;https://chinahorizons.org/category/teachers/feed/page/WPV_PAGE_NUM/?wpv_view_count=4454&quot;,&quot;query&quot;:&quot;archive&quot;,&quot;type&quot;:&quot;paged&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;duration&quot;:500,&quot;speed&quot;:5,&quot;pause_on_hover&quot;:&quot;disabled&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;enabled&quot;,&quot;preload_images&quot;:&quot;enabled&quot;,&quot;preload_pages&quot;:&quot;enabled&quot;,&quot;preload_reach&quot;:1,&quot;spinner&quot;:&quot;builtin&quot;,&quot;spinner_image&quot;:&quot;http://dev.chinahorizons.org/wp-content/plugins/wp-views/res/img/ajax-loader.gif&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;manage_history&quot;:&quot;enabled&quot;,&quot;has_controls_in_form&quot;:&quot;disabled&quot;,&quot;infinite_tolerance&quot;:&quot;&quot;,&quot;max_pages&quot;:1,&quot;page&quot;:1,&quot;loop&quot;:{&quot;type&quot;:&quot;taxonomy&quot;,&quot;name&quot;:&quot;category&quot;,&quot;data&quot;:{&quot;taxonomy&quot;:&quot;category&quot;,&quot;term&quot;:&quot;teachers&quot;,&quot;term_id&quot;:18},&quot;id&quot;:&quot;4454&quot;}}" data-permalink="https://chinahorizons.org/category/teachers/feed/?wpv_view_count=4454">
+
+	
+	
+	<ul class="wpv-loop js-wpv-loop archive-loop">
+		
+			<li>
+<h2><a href="https://chinahorizons.org/teachers/mentor-weekly-report-form-2/">Mentor Weekly Report Form</a></h2>
+<div class="meta">March 2, 2016<span class="align-right"><a href="https://chinahorizons.org/category/teachers/">Teachers</a></span></div>
+<p>[contact-form-7 id=&#8221;4186&#8243; title=&#8221;Mentor Weekly Report Form&#8221;]</p>
+</li>
+		
+			<li>
+<h2><a href="https://chinahorizons.org/teachers/arrival-tour-spring-semester-beijing/">Arrival Tour- Spring Semester Beijing</a></h2>
+<div class="meta">November 14, 2014<span class="align-right"><a href="https://chinahorizons.org/category/teachers/">Teachers</a></span></div>
+<p>Any participant who has not already traveled in China extensively, should seriously consider taking part in the arrival tour. In addition to the amazing sites we visit, training and orientation takes place throughout the tour, and prepares participants &#8230;</p>
+</li>
+		
+			<li>
+<h2><a href="https://chinahorizons.org/teachers/dress-and-grooming-standards/">Dress and Grooming Standards</a></h2>
+<div class="meta">March 6, 2012<span class="align-right"><a href="https://chinahorizons.org/category/teachers/">Teachers</a></span></div>
+<p>China Horizons defines business casual as dressing professionally, but comfortably. Business casual is not as formal as professional business attire, but it is more professional than &#8216;hangout&#8217; clothes. You should look relaxed and comfortable, while sti &#8230;</p>
+</li>
+		
+			<li>
+<h2><a href="https://chinahorizons.org/teachers/arrival-tours/">Arrival Tour-Fall Semester Beijing</a></h2>
+<div class="meta">May 9, 2011<span class="align-right"><a href="https://chinahorizons.org/category/teachers/">Teachers</a></span></div>
+<p>Any participant who has not already traveled in China extensively, should seriously consider taking part in the arrival tour. In addition to the amazing sites we visit, training and orientation takes place throughout the tour, and prepares participants &#8230;</p>
+</li>
+		
+			<li>
+<h2><a href="https://chinahorizons.org/teachers/videos/">China Horizons Videos</a></h2>
+<div class="meta">April 2, 2011<span class="align-right"><a href="https://chinahorizons.org/category/teachers/">Teachers</a></span></div>
+<p>Need to add a little fuel to that China fire? Watch a few of our past teachers&#8217; videos highlighting their China adventure! See the experience come to life in 5-10 short minutes.  https://www.youtube.com/watch?v=_YNVnaetXS4</p>
+</li>
+		
+			<li>
+<h2><a href="https://chinahorizons.org/teachers/china-resources/">Travel Resources</a></h2>
+<div class="meta">March 28, 2011<span class="align-right"><a href="https://chinahorizons.org/category/teachers/">Teachers</a></span></div>
+<p>Below is a list of materials we recommend teachers obtain before leaving for China. The first listed, &#8220;Decoding China,&#8221; is an excellent resource to prepare you for living in the Chinese culture and navigating your new life. The others are great for tra &#8230;</p>
+</li>
+		
+			<li>
+<h2><a href="https://chinahorizons.org/teachers/a-view-of-china-through-the-eyes-of-our-teachers/">China Through the Eyes of Our Teachers</a></h2>
+<div class="meta">March 10, 2011<span class="align-right"><a href="https://chinahorizons.org/category/teachers/">Teachers</a></span></div>
+<p>Cool sunglasses, 1 RMB popsicle, and the Forbidden City. A perfect trifecta! Twister is always a fun way to learn colors, directions, and limbs. Luckily, these stairs did not lead to her classroom. Great form. A skill often needed  in China. The perfec &#8230;</p>
+</li>
+		
+			<li>
+<h2><a href="https://chinahorizons.org/teachers/newsletter/">The Fried Noodle Newsletter</a></h2>
+<div class="meta">December 2, 2010<span class="align-right"><a href="https://chinahorizons.org/category/newsletter/">Newsletter</a>, <a href="https://chinahorizons.org/category/teachers/">Teachers</a></span></div>
+<p>Download our latest newsletter to see what all of our teachers are up to.</p>
+</li>
+		
+			<li>
+<h2><a href="https://chinahorizons.org/teachers/teacher-testimonials/">Teacher Testimonials</a></h2>
+<div class="meta">October 25, 2010<span class="align-right"><a href="https://chinahorizons.org/category/teachers/">Teachers</a></span></div>
+<p>My wife and I just got back in December 2012 from teaching English in China through the China Horizons program. We feel blessed to have had that opportunity and feel particularly thankful to have gone to the school that we did. It was a really great ex &#8230;</p>
+</li>
+		
+	</ul>
+	
+	
+	
+	
+	
+</div>
+</div></div></div></channel>
+</rss>

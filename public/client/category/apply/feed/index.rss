@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Apply &#8211; China Horizons</title>
+	<atom:link href="https://chinahorizons.org/category/apply/feed/" rel="self" type="application/rss+xml" />
+	<link>https://chinahorizons.org</link>
+	<description>Live. Teach. Experience. China.</description>
+	<lastBuildDate>Wed, 26 Jun 2019 20:31:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.3</generator>
+
+<image>
+	<url>https://chinahorizons.org/wp-content/uploads/2018/03/cropped-favicon2-32x32.png</url>
+	<title>Apply &#8211; China Horizons</title>
+	<link>https://chinahorizons.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+                <div class="container ">
+                <div class="row "  >
+                <div class="col-sm-12"><form autocomplete="off" name="wpv-filter-4454" action="https://chinahorizons.org/category/apply/feed/?wpv_view_count=4454" method="get" class="wpv-filter-form js-wpv-filter-form js-wpv-filter-form-4454 js-wpv-form-full" data-viewnumber="4454" data-viewid="4454" data-viewhash="eyJpZCI6IjQ0NTQifQ==" data-viewwidgetid="0" data-orderby="" data-order="" data-orderbyas="" data-orderbysecond="" data-ordersecond="" data-parametric="{&quot;query&quot;:&quot;archive&quot;,&quot;id&quot;:&quot;4454&quot;,&quot;view_id&quot;:&quot;4454&quot;,&quot;widget_id&quot;:0,&quot;view_hash&quot;:&quot;4454&quot;,&quot;action&quot;:&quot;https:\/\/chinahorizons.org\/category\/apply\/feed\/?wpv_view_count=4454&quot;,&quot;sort&quot;:{&quot;orderby&quot;:&quot;&quot;,&quot;order&quot;:&quot;&quot;,&quot;orderby_as&quot;:&quot;&quot;,&quot;orderby_second&quot;:&quot;&quot;,&quot;order_second&quot;:&quot;&quot;},&quot;orderby&quot;:&quot;&quot;,&quot;order&quot;:&quot;&quot;,&quot;orderby_as&quot;:&quot;&quot;,&quot;orderby_second&quot;:&quot;&quot;,&quot;order_second&quot;:&quot;&quot;,&quot;ajax_form&quot;:&quot;&quot;,&quot;ajax_results&quot;:&quot;&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;prebefore&quot;:&quot;&quot;,&quot;before&quot;:&quot;&quot;,&quot;after&quot;:&quot;&quot;,&quot;attributes&quot;:{&quot;id&quot;:&quot;4454&quot;},&quot;environment&quot;:{&quot;current_post_id&quot;:118,&quot;parent_post_id&quot;:0,&quot;parent_term_id&quot;:0,&quot;parent_user_id&quot;:0,&quot;archive&quot;:{&quot;type&quot;:&quot;taxonomy&quot;,&quot;name&quot;:&quot;category&quot;,&quot;data&quot;:{&quot;taxonomy&quot;:&quot;category&quot;,&quot;term&quot;:&quot;apply&quot;,&quot;term_id&quot;:20}}},&quot;loop&quot;:{&quot;type&quot;:&quot;taxonomy&quot;,&quot;name&quot;:&quot;category&quot;,&quot;data&quot;:{&quot;taxonomy&quot;:&quot;category&quot;,&quot;term&quot;:&quot;apply&quot;,&quot;term_id&quot;:20},&quot;id&quot;:&quot;4454&quot;}}" data-attributes="{&quot;id&quot;:&quot;4454&quot;}" data-environment="{&quot;current_post_id&quot;:118,&quot;parent_post_id&quot;:0,&quot;parent_term_id&quot;:0,&quot;parent_user_id&quot;:0,&quot;archive&quot;:{&quot;type&quot;:&quot;taxonomy&quot;,&quot;name&quot;:&quot;category&quot;,&quot;data&quot;:{&quot;taxonomy&quot;:&quot;category&quot;,&quot;term&quot;:&quot;apply&quot;,&quot;term_id&quot;:20}}}"><input type="hidden" class="js-wpv-dps-filter-data js-wpv-filter-data-for-this-form" data-action="https://chinahorizons.org/category/apply/feed/?wpv_view_count=4454" data-page="1" data-ajax="disable" data-effect="fade" data-maxpages="1" data-ajaxprebefore="" data-ajaxbefore="" data-ajaxafter="" /><input class="wpv_view_count wpv_view_count-4454" type="hidden" name="wpv_view_count" value="4454" />
+
+</form>
+<div id="wpv-view-layout-4454" class="js-wpv-view-layout js-wpv-layout-responsive js-wpv-view-layout-4454" data-viewnumber="4454" data-pagination="{&quot;id&quot;:&quot;4454&quot;,&quot;base_permalink&quot;:&quot;https://chinahorizons.org/category/apply/feed/page/WPV_PAGE_NUM/?wpv_view_count=4454&quot;,&quot;query&quot;:&quot;archive&quot;,&quot;type&quot;:&quot;paged&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;duration&quot;:500,&quot;speed&quot;:5,&quot;pause_on_hover&quot;:&quot;disabled&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;enabled&quot;,&quot;preload_images&quot;:&quot;enabled&quot;,&quot;preload_pages&quot;:&quot;enabled&quot;,&quot;preload_reach&quot;:1,&quot;spinner&quot;:&quot;builtin&quot;,&quot;spinner_image&quot;:&quot;http://dev.chinahorizons.org/wp-content/plugins/wp-views/res/img/ajax-loader.gif&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;manage_history&quot;:&quot;enabled&quot;,&quot;has_controls_in_form&quot;:&quot;disabled&quot;,&quot;infinite_tolerance&quot;:&quot;&quot;,&quot;max_pages&quot;:1,&quot;page&quot;:1,&quot;loop&quot;:{&quot;type&quot;:&quot;taxonomy&quot;,&quot;name&quot;:&quot;category&quot;,&quot;data&quot;:{&quot;taxonomy&quot;:&quot;category&quot;,&quot;term&quot;:&quot;apply&quot;,&quot;term_id&quot;:20},&quot;id&quot;:&quot;4454&quot;}}" data-permalink="https://chinahorizons.org/category/apply/feed/?wpv_view_count=4454">
+
+	
+	
+	<ul class="wpv-loop js-wpv-loop archive-loop">
+		
+			<li>
+<h2><a href="https://chinahorizons.org/apply/preliminary-application/">Preliminary Application</a></h2>
+<div class="meta">May 23, 2013<span class="align-right"><a href="https://chinahorizons.org/category/apply/">Apply</a></span></div>
+<p>[contact-form-7 id=&#8221;2750&#8243; title=&#8221;Preliminary Application&#8221;]</p>
+</li>
+		
+			<li>
+<h2><a href="https://chinahorizons.org/apply/paid-application-process/">Paid Application Process</a></h2>
+<div class="meta">December 2, 2010<span class="align-right"><a href="https://chinahorizons.org/category/apply/">Apply</a>, <a href="https://chinahorizons.org/category/programs/paid/">Paid Program</a></span></div>
+<p>If you are curious as to the likelihood of your application being accepted, please fill out a preliminary application form. You will be contacted within three business days with a recommendation in regards to your application information.ProcessPlease &#8230;</p>
+</li>
+		
+			<li>
+<h2><a href="https://chinahorizons.org/apply/volunteer-application-process/">Volunteer Application Process</a></h2>
+<div class="meta">November 10, 2010<span class="align-right"><a href="https://chinahorizons.org/category/apply/">Apply</a>, <a href="https://chinahorizons.org/category/programs/volunteer/">Volunteer</a></span></div>
+<p>How to apply for a volunteer position in China:FIRST: Complete step 1 below: Preliminary Application Form.SECOND: Wait to be contacted by a China Horizons representative to schedule an interview.THIRD: After the interview, complete steps 2-10 below to &#8230;</p>
+</li>
+		
+	</ul>
+	
+	
+	
+	
+	
+</div>
+</div></div></div></channel>
+</rss>
