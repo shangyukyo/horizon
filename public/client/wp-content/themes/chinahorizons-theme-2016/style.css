@@ -1,5 +1,5 @@
 /*!
-Theme Name: China Horizons
+Theme Name: Mandarin Bridge 
 Theme URI: http://chinahorizons.org
 Author: The Dealio
 Author URI: http://dealiomarketing.com/
@@ -224,7 +224,7 @@ a:hover, a:active {
   text-decoration: underline; }
 
 h1 {
-  font-family: "Rock Salt", Helvetica, Arial;
+  /*font-family: "Rock Salt", Helvetica, Arial;*/
   line-height: 1.4em;
   font-weight: normal; }
 
@@ -324,8 +324,8 @@ table tr:last-child td, table th {
       height: 100%;
       pointer-events: none;
       background-color: #efefef;
-      -webkit-mask-image: url("assets/china-horizons-logo.svg");
-      mask-image: url("assets/china-horizons-logo.svg");
+      -webkit-mask-image: url("assets/china-horizons-logo.png");
+      mask-image: url("assets/china-horizons-logo.png");
       mask-repeat: no-repeat;
       -webkit-mask-repeat: no-repeat;
       -webkit-mask-position: 50%;
