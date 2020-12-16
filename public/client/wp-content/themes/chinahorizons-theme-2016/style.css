@@ -215,7 +215,7 @@ body {
   color: #444; }
 
 a:link, a:visited {
-  color: #65803f;
+  color: #083789;
   text-decoration: none;
   transition: all .15s; }
 
@@ -242,7 +242,7 @@ h4, h5, h6 {
 .button, .btn, button, input[type="submit"], input[type="button"], a.button:link, a.button:visited {
   border: 0;
   border-radius: 45px;
-  background-color: #65803f;
+  background-color: #083789;
   color: #efefef;
   padding: 5px 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
@@ -253,7 +253,7 @@ h4, h5, h6 {
     boxshadow: 0 2px 8px rgba(0, 0, 0, 0.2); }
 
 .tag {
-  background: #65803f;
+  background: #083789;
   opacity: .6;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 10px;
@@ -313,7 +313,7 @@ table tr:last-child td, table th {
   #logo a {
     text-indent: -1000em;
     position: relative;
-    background: #65803f;
+    background: #083789;
     width: 100%; }
     #logo a:before {
       position: absolute;
@@ -578,7 +578,7 @@ table tr:last-child td, table th {
       font-family: "Oswald", Helvetica, Arial; }
     .big-buttons li a:hover, .big-buttons li a:active {
       background: white;
-      color: #65803f; }
+      color: #083789; }
 
 .chinese-dragon {
   position: absolute;
@@ -650,7 +650,7 @@ table.pricing-table {
       table.pricing-table .features-list li:last-child {
         border-bottom: none; }
   table.pricing-table .pricing-title {
-    background: #65803f;
+    background: #083789;
     color: white; }
   table.pricing-table h6 {
     font-family: "Oswald", Helvetica, Arial;
@@ -670,7 +670,7 @@ table.pricing-table {
   table.pricing-table tr.price {
     border-bottom: 1px solid #ccc; }
   table.pricing-table tr:first-child {
-    color: #65803f;
+    color: #083789;
     font-size: 1.4em; }
   table.pricing-table tr.notes {
     border-top: 1px solid #ccc;
@@ -738,7 +738,7 @@ table.pricing-table {
     border-bottom: 1px solid #ccc; }
 
 .full-width-quote, .thesis {
-  background: #65803f;
+  background: #083789;
   color: white;
   padding: 4em 15px;
   text-align: center; }
@@ -771,7 +771,7 @@ footer {
   color: #efefef;
   font-size: .9em;
   position: relative;
-  background: #65803f;
+  background: #083789;
   z-index: 5;
   mix-blend-mode: multiply; }
   footer:after {
