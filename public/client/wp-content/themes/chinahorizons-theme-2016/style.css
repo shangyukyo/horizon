@@ -219,6 +219,13 @@ a:link, a:visited {
   text-decoration: none;
   transition: all .15s; }
 
+#menu-top-left-menu a{
+  color: #fff;
+}
+
+#menu-top-menu a {
+  color: #fff;
+}
 a:hover, a:active {
   color: #8daf5c;
   text-decoration: underline; }
@@ -302,6 +309,35 @@ table th {
   font-size: 80%; }
 table tr:last-child td, table th {
   border-bottom: none; }
+
+.textwidget{
+  flex-basis: 15%;
+  display: flex; }
+  @media screen and (max-width: 768px) {
+    .textwidget {
+      flex-basis: 100%;
+      height: 50px; } }
+  .textwidget a {
+    text-indent: -1000em;
+    position: relative;
+    background: #083789;
+    width: 300px;
+    height: 100px; }
+    .textwidget a:before {
+      position: absolute;
+      content: " ";
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      background-color: #efefef;
+      -webkit-mask-image: url("assets/china-horizons-logo.png");
+      mask-image: url("assets/china-horizons-logo.png");
+      mask-repeat: no-repeat;
+      -webkit-mask-repeat: no-repeat;
+      -webkit-mask-position: 50%;
+      mask-position: 50%; }
 
 #logo {
   flex-basis: 15%;
