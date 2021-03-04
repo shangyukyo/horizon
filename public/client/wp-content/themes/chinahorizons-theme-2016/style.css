@@ -311,7 +311,7 @@ table tr:last-child td, table th {
   border-bottom: none; }
 
 .textwidget{
-  flex-basis: 15%;
+  flex-basis: 15%;  
   display: flex; }
   @media screen and (max-width: 768px) {
     .textwidget {
