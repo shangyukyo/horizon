@@ -3,7 +3,7 @@
 # config valid only for current version of Capistrano
 lock '3.4.1'
 
-set :application, 'horizon'
+set :application, 'horizon_v2'
 set :repo_url, 'git@github.com:shangyukyo/horizon.git'
 
 # Default branch is :master
