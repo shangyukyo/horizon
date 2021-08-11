@@ -231,7 +231,7 @@ a:hover, a:active {
   text-decoration: underline; }
 
 h1 {
-  /*font-family: "Rock Salt", Helvetica, Arial;*/
+  font-family: "Rock Salt", Helvetica, Arial;
   line-height: 1.4em;
   font-weight: normal; }
 
