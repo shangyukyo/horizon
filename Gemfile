@@ -13,6 +13,13 @@ gem 'jquery-rails'
 gem 'mysql2'
 
 gem 'unicorn'
+gem 'slim'
+
+# Bootstrap for UI
+gem 'bootstrap-sass', '~> 3.3.6'
+
+gem 'font-awesome-sass', '~> 5.6.1'
+
 # Use sqlite3 as the database for Active Record
 # gem 'sqlite3'
 # Use Puma as the app server

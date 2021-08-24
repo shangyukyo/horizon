@@ -5,7 +5,17 @@ Rails.application.routes.draw do
 
   scope :admin, module: 'admin' do 
     scope shallow_path: 'index',  controller: 'index' do
-
+      get :login
+      post :login
+      get :registers
+      get :show
     end
+  end
+
+  resources :index, only: [] do 
+    collection do 
+      post :register
+    end
+    
   end
 end
