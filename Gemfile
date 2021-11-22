@@ -15,6 +15,9 @@ gem 'mysql2'
 gem 'unicorn'
 gem 'slim'
 
+# Http Client
+gem 'rest-client', '~> 2.0.0'
+
 # Bootstrap for UI
 gem 'bootstrap-sass', '~> 3.3.6'
 
