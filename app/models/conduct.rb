@@ -1,0 +1,2 @@
+class Conduct < ApplicationRecord
+end

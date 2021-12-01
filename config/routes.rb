@@ -8,13 +8,18 @@ Rails.application.routes.draw do
       get :login
       post :login
       get :registers
+      get :conduct
+      get :departure
       get :show
+      get :show_departure
     end
   end
 
   resources :index, only: [] do 
     collection do 
       post :register
+      post :conduct
+      post :departure
     end
     
   end

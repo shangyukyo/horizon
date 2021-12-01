@@ -13,10 +13,19 @@ html
       ul.nav.nav-pills.nav-stacked
       
         li
-          a href="#{registers_path}"  class="#{params[:action] == 'yijianxiang' ? 'selected' : nil}"
+          a href="#{registers_path}"  class="#{params[:action] == 'registers' ? 'selected' : nil}"
             i.fa.fa-list 
             span.ml-5 申请表      
 
+        li
+          a href="#{conduct_path}"  class="#{params[:action] == 'conduct' ? 'selected' : nil}"
+            i.fa.fa-list 
+            span.ml-5 行为准则     
+
+        li
+          a href="#{departure_path}"  class="#{params[:action] == 'departure' ? 'selected' : nil}"
+            i.fa.fa-list 
+            span.ml-5 离境表格               
 
     .main
       - if true

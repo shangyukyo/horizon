@@ -1,0 +1,14 @@
+.pd-15
+  .panel.panel-default
+    .panel-heading    
+      i.fa.fa-reorder 
+      span.ml-10 详情
+
+    .panel-body
+      table.table.table-striped
+        tbody
+          - Departure.find(params[:id]).as_json.each do |key, value|
+            tr
+              td= key
+              td= value
+                     

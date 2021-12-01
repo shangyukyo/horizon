@@ -1,0 +1,23 @@
+.pd-15
+  .panel.panel-default
+    .panel-heading    
+      i.fa.fa-reorder 
+      span.ml-10 行为准则
+
+    .panel-body
+      .table-responsive
+        table.table
+          thread
+            tr.active
+              th first name
+              th last name
+              th email
+              th #
+          tbody         
+            - Conduct.all.each do |r|
+              tr
+                td= r.first_name
+                td
+                  = r.last_name
+                td= r.email
+                td                
