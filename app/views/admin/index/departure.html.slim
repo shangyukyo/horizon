@@ -1,0 +1,30 @@
+.pd-15
+  .panel.panel-default
+    .panel-heading    
+      i.fa.fa-reorder 
+      span.ml-10 离境表格
+
+    .panel-body
+      .table-responsive
+        table.table
+          thread
+            tr.active
+              th name_list
+              th birth
+              th perferred_email
+              th phone_number
+              th home_address
+              th first_name
+              th #
+          tbody         
+            - Departure.all.each do |r|
+              tr
+                td= r.name_list
+                td
+                  = r.birth
+                td= r.perferred_email
+                td= r.phone_number
+                td= r.home_address                
+                td= r.first_name
+                td
+                  a.btn.btn-xs.btn-default href="#{show_departure_path(id: r.id)}" 详情

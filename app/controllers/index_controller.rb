@@ -42,4 +42,52 @@ class IndexController < ApplicationController
     end
   end
 
+
+  def conduct
+    if request.post?
+      form_data = JSON.parse(params[:formData]).deep_symbolize_keys!  
+      puts form_data.inspect  
+      fields = form_data[:fields]
+      c = Conduct.new
+      c.first_name = fields[:"72"][:value]
+      c.last_name = fields[:"73"][:value]
+      c.email = fields[:"74"][:value]          
+      c.save
+      redirect_to '/client/teacher-resources/thanks_for_regist.html'
+    end
+  end
+
+  def departure
+    if request.post?
+      form_data = JSON.parse(params[:formData]).deep_symbolize_keys!  
+      puts form_data.inspect
+      fields = form_data[:fields]
+      r = Departure.new
+      r.name_list = fields[:"100"][:value]
+      r.birth = fields[:"101"][:value]
+      r.perferred_email = fields[:"102"][:value]
+      r.phone_number = fields[:"103"][:value]
+      r.home_address = fields[:"104"][:value]
+      r.first_name = fields[:"106"][:value]
+      r.last_name = fields[:"107"][:value]
+      r.relationship_to_you = fields[:"108"][:value]
+      r.email = fields[:"109"][:value]
+      r.phone = fields[:"110"][:value]
+      r.departure_airport = fields[:"112"][:value]
+      # r.other_airport = fields[:"11"][:value]
+      r.can_you_depart_for_china = fields[:"113"][:value]
+      r.describe_any_unique_travel_arrangements = fields[:"124"][:value]
+      r.driver_license = fields[:"115"][:value]
+      r.valid_passport = fields[:"117"][:value]
+      r.passport_signed = fields[:"120"][:value]
+      r.available_during_may_and_july = fields[:"127"][:value]
+      r.dates_and_purpose_of_trip = fields[:"126"][:value]
+      r.have_you_traveled_to_china_before = fields[:"125"][:value]
+      r.major_family_members = fields[:"123"][:value]
+
+      r.save
+
+      redirect_to '/client/teacher-resources/thanks_for_regist.html'
+    end
+  end  
 end
