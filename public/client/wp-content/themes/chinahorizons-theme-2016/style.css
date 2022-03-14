@@ -866,8 +866,14 @@ footer {
         list-style: none;
         padding: 0;
         margin: 0;
-        line-height: 1.6em;
+        /*line-height: 2em;*/
         margin-right: 15px; }
+
+      @media screen and (max-width: 768px) {  
+        footer .footer-widgets > ul li#nav_menu-6 {
+          margin-top: 25px;
+        }        
+      }
         @media screen and (max-width: 768px) {
           footer .footer-widgets > ul li:first-child {
             flex-basis: 100%; } }
