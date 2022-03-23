@@ -867,7 +867,12 @@ footer {
         padding: 0;
         margin: 0;
         line-height: 1.6em;
-        margin-right: 15px; }
+        margin-right: 10px; }
+
+      footer .footer-widgets > ul > li:first-child{
+        width: 190px;
+      }  
+          
         @media screen and (max-width: 768px) {
           footer .footer-widgets > ul li:first-child {
             flex-basis: 100%; } }
