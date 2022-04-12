@@ -11,4 +11,19 @@ class Admin::ApplicationController < ActionController::Base
     end
   end
 
+
+  def destroy_register
+  	Register.find(params[:id]).destroy
+  	redirect_to registers_path
+  end
+
+  def destroy_conduct
+  	Conduct.find(params[:id]).destroy
+  	redirect_to conduct_path
+  end
+
+  def destroy_departure
+  	Departure.find(params[:id]).destroy
+  	redirect_to departure_path
+  end
 end

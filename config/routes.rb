@@ -12,6 +12,10 @@ Rails.application.routes.draw do
       get :departure
       get :show
       get :show_departure
+
+      get :destroy_register
+      get :destroy_conduct
+      get :destroy_departure
     end
   end
 

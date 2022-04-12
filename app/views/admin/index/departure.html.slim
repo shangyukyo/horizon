@@ -15,6 +15,7 @@
               th phone_number
               th home_address
               th first_name
+              th 申请时间            
               th #
           tbody         
             - Departure.all.each do |r|
@@ -26,5 +27,7 @@
                 td= r.phone_number
                 td= r.home_address                
                 td= r.first_name
+                td= r.created_at.strftime("%F %T")
                 td
                   a.btn.btn-xs.btn-default href="#{show_departure_path(id: r.id)}" 详情
+                  a.btn.btn-xs.btn-danger.ml-5 href="#{destroy_departure_path(id: r.id)}" 删除

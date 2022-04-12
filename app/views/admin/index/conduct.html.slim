@@ -12,6 +12,7 @@
               th first name
               th last name
               th email
+              th 申请时间
               th #
           tbody         
             - Conduct.all.each do |r|
@@ -20,4 +21,6 @@
                 td
                   = r.last_name
                 td= r.email
-                td                
+                td= r.created_at.strftime("%F %T")
+                td          
+                  a href="#{destroy_conduct_path(id: r.id)}" 删除      
